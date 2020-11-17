@@ -15,7 +15,7 @@ Repository developed in the HTTPs methods of React Native Mobile Developer Bootc
 <p align="center">
 <a href="#rocket-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#ballot_box_with_check-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#up-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#up-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## [](#technology):rocket: Technology
@@ -37,7 +37,7 @@ Repository developed in the HTTPs methods of React Native Mobile Developer Bootc
 ## [](#getting-started):up: Getting started
 
 -   Clone this repo
--  Enter the folder `DIOmarketplace`
+-  Enter the folder `DIOnavigation`
 -  Run `yarn` or `npm install` to install the dependencies
 -  On MacOS, access the <b>ios</b> folder and run `pod install`
 -  Run `react-native run-ios` or `react-native run-android`
